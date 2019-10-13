@@ -25,4 +25,4 @@ In our case we deployed it to [Heroku](https://www.heroku.com):
 
 ## 4. Import the flows
 
-- Import the flows from the `flows.json` file.
+- Import the flows from the [flows.json](https://github.com/s-schumann/tadhack-2019-berlin/blob/master/flows.json) file.
