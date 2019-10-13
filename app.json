@@ -1,0 +1,16 @@
+{
+  "name": "Node-RED",
+  "description": "Node-RED",
+  "repository": "https://github.com/s-schumann/tadhack-2019-berlin",
+  "env": {
+    "NPM_CONFIG_PRODUCTION": {
+      "description": "DO NOT CHANGE. Leave \"false\" here.",
+      "value": "false",
+      "required": true
+    },
+    "APP_NAME": {
+      "description": "Repeat app name to make it available inside the app.",
+      "required": true
+    }
+  }
+}
