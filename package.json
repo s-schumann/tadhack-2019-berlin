@@ -1,0 +1,17 @@
+{
+  "name": "tadhack-2019-berlin",
+  "version": "1.0.0",
+  "description": "Node-RED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-schumann/tadhack-2019-berlin"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "node-red": "^1.0.1",
+    "node-red-node-test-helper": "^0.2.2"
+  },
+  "scripts": {
+    "start": "node node_modules/node-red/red.js --settings settings.js",
+  }
+}
