@@ -1,4 +1,8 @@
-# tadhack-2019-berlin
+# TADHack 2019 Berlin
+
+Instructions how to set up Node-RED based backend for the TADHack in Berlin.
+
+Contains flow contributions from [@barinali]( https://github.com/barinali ).
 
 ## 1. Have Node-RED available
 
@@ -26,3 +30,16 @@ In our case we deployed it to [Heroku](https://www.heroku.com):
 ## 4. Import the flows
 
 - Import the flows from the [flows.json](https://github.com/s-schumann/tadhack-2019-berlin/blob/master/flows.json) file.
+
+# Contact
+
+Copyright (c) 2019 Sebastian Schumann
+
+* E-mail: [mail@s-schumann.com](mailto:mail@s-schumann.com "mail to sebastian")
+* Homepage: [www.s-schumann.com](https://www.s-schumann.com "website of sebastian")
+* Blog: [blog.s-schumann.com](https://blog.s-schumann.com "blog of sebastian")
+* Twitter: [@s_schumann](https://twitter.com/s_schumann "s_schumann on twitter")
+
+# License
+
+The software is licensed under the [MIT LICENSE](LICENSE.md)
